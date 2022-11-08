@@ -1,5 +1,5 @@
 ---
-name: Onboarding1週間以内Checklist【本人】
+name: "○○さんOnboarding1週間以内Checklist【本人】"
 about: 入社日から一週間以内のタスクリストです。
 title: ''
 labels: Onboarding実施
