@@ -1,9 +1,9 @@
 ---
-name: "○○さんOnboarding入社合意からDay1まで【部門長】"
+name: "○○さんOnboarding入社合意からDay1まで【Corporate担当者】"
 about: Describe this issue template's purpose here.
 title: ''
 labels: Onboarding実施
-assignees: ''
+assignees: Khamida-schemeverge
 
 ---
 
