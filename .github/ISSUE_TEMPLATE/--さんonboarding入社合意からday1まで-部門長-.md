@@ -1,6 +1,6 @@
 ---
 name: "○○さんOnboarding入社合意からDay1まで【部門長】"
-about: Onboarding入社合意からDay1までに部門長がやるべきタスクのリスト
+about: Describe this issue template's purpose here.
 title: ''
 labels: Onboarding実施
 assignees: ''
