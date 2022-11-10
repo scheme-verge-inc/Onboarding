@@ -1,5 +1,5 @@
 ---
-name: "○○さんOnboarding入社合意からDay1まで【フジコさん】"
+name: "2.○○さんOnboarding入社合意からDay1まで【フジコさん】"
 about: Onboarding入社合意からDay1までにフジコさんがやるべきタスクのリスト
 title: ''
 labels: Onboarding実施
