@@ -1,7 +1,7 @@
 ---
 name: 1.○○さんOnboarding入社合意からDay1まで【部門長】
 about: Describe this issue template's purpose here.
-title: ''
+title: '1.○○さんOnboarding入社合意からDay1まで【部門長】'
 labels: Onboarding実施
 assignees: ''
 
