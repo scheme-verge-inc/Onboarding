@@ -1,7 +1,7 @@
 ---
 name: 3.○○さんOnboarding1週間以内Checklist【本人】
 about: 入社日から一週間以内のタスクリストです。
-title: ''
+title: 3.○○さんOnboarding1週間以内Checklist【本人】
 labels: Onboarding実施
 assignees: ''
 
