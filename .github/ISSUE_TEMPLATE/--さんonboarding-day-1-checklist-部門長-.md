@@ -1,5 +1,5 @@
 ---
-name: "○○さんOnboarding Day 1 Checklist【部門長】"
+name: "2.○○さんOnboarding Day 1 Checklist【部門長】"
 about: Describe this issue template's purpose here.
 title: ''
 labels: Onboarding実施
