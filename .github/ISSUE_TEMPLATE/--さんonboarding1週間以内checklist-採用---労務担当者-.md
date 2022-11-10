@@ -3,7 +3,7 @@ name: 3.○○さんOnboarding1週間以内Checklist【採用 / 労務担当者�
 about: Describe this issue template's purpose here.
 title: 3.○○さんOnboarding1週間以内Checklist【採用 / 労務担当者】
 labels: Onboarding実施
-assignees: Khamida-schemeverge
+assignees: ''
 
 ---
 
