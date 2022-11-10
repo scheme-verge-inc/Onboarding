@@ -1,5 +1,5 @@
 ---
-name: "○○さんOnboarding入社合意からDay1まで【Copropate担当者】"
+name: "1.○○さんOnboarding入社合意からDay1まで【Copropate担当者】"
 about: Onboarding入社合意からDay1までにCopropate担当者がやるべきタスクのリスト
 title: Onboarding入社合意からDay1まで【Onboarding担当者】
 labels: Onboarding実施
