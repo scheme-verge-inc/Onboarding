@@ -1,7 +1,7 @@
 ---
 name: 3.○○さんOnboarding1週間以内Checklist【部門長】
 about: Describe this issue template's purpose here.
-title: ''
+title: 3.○○さんOnboarding1週間以内Checklist【部門長】
 labels: Onboarding実施
 assignees: Khamida-schemeverge
 
