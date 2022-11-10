@@ -1,7 +1,7 @@
 ---
 name: 2.○○さんOnboarding Day 1 Checklist【本人】
 about: 入社日のタスクリストです。Handbookと合わせてやってください。
-title: '2.○○さんOnboarding Day 1 Checklist【本人】'
+title: 2.○○さんOnboarding Day 1 Checklist【本人】
 labels: Onboarding実施
 assignees: ''
 
