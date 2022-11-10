@@ -1,9 +1,9 @@
 ---
 name: 4.○○さんOnboarding 入社1ヶ月以内Checklist【Corporate担当者】
 about: Describe this issue template's purpose here.
-title: ''
+title: 4.○○さんOnboarding 入社1ヶ月以内Checklist【Corporate担当者】
 labels: Onboarding実施
-assignees: ''
+assignees: Khamida-schemeverge
 
 ---
 

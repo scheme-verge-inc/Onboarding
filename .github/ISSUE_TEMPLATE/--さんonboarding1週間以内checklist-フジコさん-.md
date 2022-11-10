@@ -1,9 +1,9 @@
 ---
 name: 3.○○さんOnboarding1週間以内Checklist【フジコさん】
 about: Describe this issue template's purpose here.
-title: ''
+title: 3.○○さんOnboarding1週間以内Checklist【フジコさん】
 labels: Onboarding実施
-assignees: ''
+assignees: sv-assistant
 
 ---
 
