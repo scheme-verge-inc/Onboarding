@@ -1,7 +1,7 @@
 ---
 name: 1.○○さんOnboarding入社合意からDay1まで【フジコさん】
 about: Onboarding入社合意からDay1までにフジコさんがやるべきタスクのリスト
-title: ''
+title: '1.○○さんOnboarding入社合意からDay1まで【フジコさん】'
 labels: Onboarding実施
 assignees: ''
 
