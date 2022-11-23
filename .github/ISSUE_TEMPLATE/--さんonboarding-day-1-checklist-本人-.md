@@ -29,7 +29,7 @@ scheme verge onboarding プロジェクトを開いたら、今後より簡単�
 - [ ]  Githubのアクセスをすぐできるようにタスクのviewをブックマークしよう
 - [ ] [Handbook](https://sites.google.com/schemeverge.com/scheme-verge-wiki/onboarding)の使い方を確認しよう
 - [ ]  [Handbook](https://sites.google.com/schemeverge.com/scheme-verge-wiki/onboarding)の検索をしよう
-- [ ]  Google Driveに[scheme_verge_all]フォルダを追加しよう
+- [ ]  Google Driveに[scheme_verge_all](https://drive.google.com/drive/folders/1jml8WRT87e_NaUOPf9sM88Q90OSHr6_d)フォルダを追加しよう
 
 **Slackを使いこなそう**
 プロフィールを設定しよう
