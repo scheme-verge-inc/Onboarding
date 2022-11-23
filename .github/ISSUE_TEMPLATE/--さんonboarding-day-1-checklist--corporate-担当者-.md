@@ -19,6 +19,16 @@ assignees: Khamida-schemeverge
 
 scheme-verge-inc→Onboarding→settings→Collaborators and Teams
 
-- [ ]  scheme vergeのWelcome Kitを渡す
+- [ ]  本人を最初週と最初月のヒアリングにGoogleカレンダーに招待する
+	<sub>○○さん、scheme vergeで最初の一一週間の勤務お疲れ様です！
+その間Bizdevの業務に慣れられましたのでしょうか？今回も是非○○さんの最初の一週間に発生している不明点や不安・提案などについて聞くためにヒアリングを設定させていただきます。
+よろしくお願いします。 </sub>
+
+	<sub>○○さん、scheme vergeで最初の一か月の勤務お疲れ様です！
+その間Bizdevの業務に慣れられましたのでしょうか？今回も是非○○さんの最初の一週間に発生している不明点や不安・提案などについて聞くためにヒアリングを設定させていただきます。
+よろしくお願いします。 </sub>
+
+
+
 - [ ]  1日の終わりに新入社員と振り返りをする
 - [ ]  本人が持っている端末iOSかAndroidか確認して、フジコさんにテストフライトの招待を依頼する
