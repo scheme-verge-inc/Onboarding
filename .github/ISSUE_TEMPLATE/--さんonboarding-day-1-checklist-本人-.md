@@ -70,6 +70,8 @@ scheme verge onboarding プロジェクトを開いたら、今後より簡単�
 - [ ] [こちらのスプシ](https://docs.google.com/spreadsheets/u/0/d/1G0dgMSk-ZZQG9NtNtLzveC7VM_8PeWUjCUUs3ocRJ08/edit)に名前とメールアドレスを入力しよう
 **A欄に入力不要です**
 - [ ] HubSpotの招待を確認しよう
+- [ ] HubSpotのアプリをダウンロードしよう (https://www.hubspot.com/products/mobile
+)
 - [ ] Handbookの写真・スキルと趣味は入れてるかどうか確認
 - [ ] Facebookアカウントを作成しよう 
 **※Facebookの[2段階認証はセキュリティ](https://ja-jp.facebook.com/help/148233965247823)上必須設定にしてください。**
