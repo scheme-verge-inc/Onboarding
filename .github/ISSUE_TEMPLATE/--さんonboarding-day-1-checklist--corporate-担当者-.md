@@ -35,5 +35,3 @@ scheme-verge-inc→Onboarding→settings→Collaborators and Teams
 
 - [ ]  1日の終わりに新入社員と振り返りをする
 - [ ]  本人が持っている端末iOSかAndroidか確認して、フジコさんにテストフライトの招待を依頼する
-- [ ] Welcome Lunch を設定する　
-注意：お支払方法のロージを田中さんとご確認してください。
