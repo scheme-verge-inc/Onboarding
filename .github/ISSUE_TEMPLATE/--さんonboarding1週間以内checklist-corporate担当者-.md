@@ -9,9 +9,7 @@ assignees: Khamida-schemeverge
 
 - [ ] Handbookに新しい人の写真を載せる
 - [ ] 部門長に名刺の有無を確認する
-- [ ] Test Flightに招待
-- [ ] Onboardingの「最初週」の振り返り会。テンプレートは[こちら]
-(https://docs.google.com/document/d/1szFgAPeslTm42NL-qVw3rjbWVUWaCixshMnvYa-1RTI/edit?usp=sharing)。議事録を[このドキュメント](https://docs.google.com/document/d/1szFgAPeslTm42NL-qVw3rjbWVUWaCixshMnvYa-1RTI/edit?usp=sharing)に必ずとってください。
+- [ ] Onboardingの「最初週」の振り返り会。テンプレートは[こちら](https://docs.google.com/document/d/1szFgAPeslTm42NL-qVw3rjbWVUWaCixshMnvYa-1RTI/edit?usp=sharing)。議事録を[このドキュメント](https://docs.google.com/document/d/1szFgAPeslTm42NL-qVw3rjbWVUWaCixshMnvYa-1RTI/edit?usp=sharing)に必ずとってください。
 
 必要があれば：
 
