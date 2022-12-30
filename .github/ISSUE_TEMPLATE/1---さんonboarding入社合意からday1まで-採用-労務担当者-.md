@@ -1,7 +1,7 @@
 ---
 name: 1.○○さんOnboarding入社合意からDay1まで【採用・労務担当者】
 about: Onboarding入社合意からDay1までに採用・労務担当者がやるべきタスクのリスト
-title: 1.○○さんOnboarding入社合意からDay1まで【フジコさん】
+title: 1.○○さんOnboarding入社合意からDay1まで【採用・労務担当者】
 labels: Onboarding実施
 assignees: ''
 
