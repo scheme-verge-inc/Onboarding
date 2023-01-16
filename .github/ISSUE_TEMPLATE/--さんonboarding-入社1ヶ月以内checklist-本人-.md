@@ -12,6 +12,17 @@ assignees: ''
  **All Hands Meeting前日まで**
 - [ ] 自己紹介スライドの作成✅
 
+⚠ 注意事項⚠ 
+AHMに初めての方々AHMに出席できない場合は、事前に部門長や部門のメンバーに代表者として事前に自己紹介を任せてください。
+
+作成された自己紹介スライドを必ずこちらのフォルダーに格納して ください。
+
+上のフォルダにアップロードした後自己紹介のURLを#002_ppl-notice への投稿お願いします 
+
+自己紹介スライドは部門長とOnboarding担当者の確認は不要です。
+
+
+
 **svでよく使う専門用語リスト**
 
 - [ ] こちらの[スプシ](https://sites.google.com/schemeverge.com/scheme-verge-wiki/departments/corporate-department/%E7%B5%84%E7%B9%94/all-hands-meeting%E3%81%A8%E3%81%AF/sv%E3%81%A7%E3%82%88%E3%81%8F%E4%BD%BF%E3%81%86%E5%B0%82%E9%96%80%E7%94%A8%E8%AA%9E%E3%83%AA%E3%82%B9%E3%83%88)　に分からない専門用語や、分からないsvで使う単語の記入
