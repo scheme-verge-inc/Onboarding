@@ -55,7 +55,7 @@ scheme-verge-inc→Onboarding→settings→Collaborators and Teams
 5：「内部テスト」の画面にもどり「テストへの参加方法」にある「リンクをコピー」をクリックして
 リンクURLをテスターへ連絡する
 
-** iOSの場合は ** 
+**iOSの場合は** 
 ## Information
 - 氏名・name: 
 - email: ※使用するiphoneの AppleID 
