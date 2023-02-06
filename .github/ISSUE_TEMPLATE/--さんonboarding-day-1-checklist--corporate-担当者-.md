@@ -80,3 +80,6 @@ scheme-verge-inc→Onboarding→settings→Collaborators and Teams
 
  
  5：ユーザーのiPhoneにTestFlightをDLしてもらう。しばらくするとTestFlightにテスト用アプリが表示される
+
+- [ ]新規メンバーを全てツールに招待後、ツールチェックリストを正確にアップデートする
+https://docs.google.com/spreadsheets/d/1KbjNJk7pkFydtPxXTK7frTJKyRZ8VKl-WUJ1GCnO-Xo/edit#gid=794106033
