@@ -59,4 +59,5 @@ github 招待方法: https://drive.google.com/file/d/1S9o4iHE6gLljItTpzEQbHyCcam
 
 ※上記issue は https://github.com/scheme-verge-inc/horai_ops/issues/new/choose からでも作れます
 
-- [ ] 適宜に新規メンバーをツールに招待しながら（ツール招待方法は「こちら」（https://docs.google.com/spreadsheets/d/1KbjNJk7pkFydtPxXTK7frTJKyRZ8VKl-WUJ1GCnO-Xo/edit#gid=2053879042））ツール登録リストを更新する
+- [ ] 適宜に新規メンバーをツールに招待ながら、ツール登録リストを更新するしましょう。
+ツール招待方法は「こちら」(https://docs.google.com/spreadsheets/d/1KbjNJk7pkFydtPxXTK7frTJKyRZ8VKl-WUJ1GCnO-Xo/edit#gid=2053879042)
