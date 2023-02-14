@@ -21,7 +21,7 @@ github 招待方法: https://drive.google.com/file/d/1S9o4iHE6gLljItTpzEQbHyCcam
 - [ ] [firebase console 招待](https://console.firebase.google.com/project/horai-dev-scheme-verge-v2/overview)
 - [ ] [Google Platform Console(firebase登録済みならこっちにも登録されてるぽいけど一応ご確認お願いしますmm)](https://console.cloud.google.com/iam-admin/iam?project=horai-dev-scheme-verge-v2)
 - [ ] [Figjam](https://www.figma.com/figjam/)
-- [ ] 適宜に新規メンバーをツールに招待ながら、ツール登録リストを更新するしましょう。
+- [ ] 適宜に新規メンバーをツールに招待ながら、ツール登録リストを更新しましょう。
   [ツール招待方法](https://docs.google.com/spreadsheets/d/14HujPUTcXi6i06-aShQcqanV2YQ9fnaOEs09Edm2er8/edit#gid=0)
 [ツール登録リスト](https://docs.google.com/spreadsheets/d/1KbjNJk7pkFydtPxXTK7frTJKyRZ8VKl-WUJ1GCnO-Xo/edit#gid=2053879042)
 
