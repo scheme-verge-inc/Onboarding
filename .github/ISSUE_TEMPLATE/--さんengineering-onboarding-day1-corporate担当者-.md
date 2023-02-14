@@ -17,6 +17,12 @@ github 招待方法: https://drive.google.com/file/d/1S9o4iHE6gLljItTpzEQbHyCcam
 - [ ] Slack #120_prd-emergency-incidentと#400_engineering_general にマルチチャンネルゲストで招待
 - [ ] Github の teams の [All に追加](https://github.com/orgs/scheme-verge-inc/teams/all)
 - [ ] レポジトリーについて説明できるエンジニアを事前にOnboardingのURLに招待する（実際のOnboardingの際Welcome Task#5を本人に説明してもらう）
+- [ ] [firebase console 招待](https://console.firebase.google.com/project/horai-dev-scheme-verge-v2/overview)
+- [ ] [Google Platform Console(firebase登録済みならこっちにも登録されてるぽいけど一応ご確認お願いしますmm)](https://console.cloud.google.com/iam-admin/iam?project=horai-dev-scheme-verge-v2)
+- [ ] [Figjam](https://www.figma.com/figjam/)
+- [ ] 適宜に新規メンバーをツールに招待ながら、ツール登録リストを更新するしましょう。
+  [ツール招待方法](https://docs.google.com/spreadsheets/d/14HujPUTcXi6i06-aShQcqanV2YQ9fnaOEs09Edm2er8/edit#gid=0)
+[ツール登録リスト](https://docs.google.com/spreadsheets/d/1KbjNJk7pkFydtPxXTK7frTJKyRZ8VKl-WUJ1GCnO-Xo/edit#gid=2053879042)
 
 ### 下記それぞれのissueを新メンバー向けに新規作成
 - 下記で作成するすべてのissueのassign を該当のエンジニアに設定してあげてください
@@ -42,23 +48,17 @@ github 招待方法: https://drive.google.com/file/d/1S9o4iHE6gLljItTpzEQbHyCcam
 - [ ] [8. 開発環境構築 & README update](https://github.com/scheme-verge-inc/horai/issues/new?assignees=&labels=ops&template=882_developer-join-setup-local-update-readme.md&title=xxx-san+welcome+task+%F0%9F%8E%89+-+8.+Setup+local+machine+environment+%26+update+README%28Flutter%29)
 
 
- 下記招待をお願いします
-
-- [ ] [firebase console 招待](https://console.firebase.google.com/project/horai-dev-scheme-verge-v2/overview)
-- [ ] [Google Platform Console(firebase登録済みならこっちにも登録されてるぽいけど一応ご確認お願いしますmm)](https://console.cloud.google.com/iam-admin/iam?project=horai-dev-scheme-verge-v2)
-- [ ] [Figjam](https://www.figma.com/figjam/)
-
 ### 下記　確認＆購入手続き
 - [ ] [CircleCI の Seat確認、なければ購入](https://app.circleci.com/settings/plan/github/scheme-verge-inc/overview?return-to=https%3A%2F%2Fapp.circleci.com%2Fpipelines%2Fgithub%2Fscheme-verge-inc)
 
 ### PMの場合は嶂南さんとの定例の1 on 1 を月１設定する
 - [ ] 嶂南さんのカレンダーに登録
 
-### Corporate担当者さんへpjのアサインをしているかの確認issueを作成する
-- [ ] welcome task内で1on1をエンジニアが設定するのでスケジュールのメールが届いたら[issue](https://github.com/scheme-verge-inc/horai/issues/new?assignees=HiromiShikata&labels=ops&template=801_developer-join-assign-check.md&title=xxx-san+join+%E3%81%AB%E3%81%82%E3%81%9F%E3%82%8APJ%E3%82%A2%E3%82%B5%E3%82%A4%E3%83%B3%E3%82%92%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99%F0%9F%99%87)を作成
-
-※上記issue は https://github.com/scheme-verge-inc/horai_ops/issues/new/choose からでも作れます
-
-- [ ] 適宜に新規メンバーをツールに招待ながら、ツール登録リストを更新するしましょう。
-  [ツール招待方法](https://docs.google.com/spreadsheets/d/14HujPUTcXi6i06-aShQcqanV2YQ9fnaOEs09Edm2er8/edit#gid=0)
-[ツール登録リスト](https://docs.google.com/spreadsheets/d/1KbjNJk7pkFydtPxXTK7frTJKyRZ8VKl-WUJ1GCnO-Xo/edit#gid=2053879042)
+##PJにアサイン
+後藤田さんに聞いてください。決めたプロジェクトにエンジニアをアサインする
+## 対象のエンジニア
+- 名前: 
+- 技術: 
+- Email: 
+### 1 on 1のあとにPJのアサインをしたか
+- [ ] ◯◯◯◯◯◯◯◯◯◯に記載した
