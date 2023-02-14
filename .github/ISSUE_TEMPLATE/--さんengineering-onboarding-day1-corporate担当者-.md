@@ -12,6 +12,7 @@ github 招待方法: https://drive.google.com/file/d/1S9o4iHE6gLljItTpzEQbHyCcam
 
 ## 急ぐこと
 ### チュートリアルを開始するために必要なもの各種招待
+- [ ] Slackにゲストとして招待する
 - [ ] G suite の collaborator グループに追加
 - [ ] Github 招待
 - [ ] Slack #120_prd-emergency-incidentと#400_engineering_general にマルチチャンネルゲストで招待
