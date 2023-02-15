@@ -1,5 +1,5 @@
 ---
-name: "○○さんWelcome task\U0001F389 - 1. How to use board & create issues"
+name: "○○さんEngineering Onboarding \U0001F389Day1【本人】"
 about: A welcome task for onboarding the offshore engineers
 title: "○○さんEngineering Onboarding\U0001F389 Day1 【本人】"
 labels: Onboarding実施
@@ -8,33 +8,32 @@ assignees: ''
 ---
 
 Hi, Thank you for joining our team!
-This is first task for you.
-Please do this task and when you checked all the subtasks, you can close this issue yourself :+1:
-If you can't access, please comment to this issue and change assignee to @khamida-schemeverge :bow:
-If you have some question, please comment to this issue and change assignee to @ttygtd :bow:
+This is a list of welcome tasks for your onboarding.
+Once you check all the subtasks, you can close this issue yourself :+1:
+If you can't access any tool, please comment to this issue and change assignee to @khamida-schemeverge :bow:
+If you have some questions about the workflow, repositories and etc., please comment to this issue with the detailed explanation of your problem and change assignee to @ttygtd :bow:
 
-- [ ] Make sure that you are assigned for the Issue you you will complete. If not, please assign yourself by selecting yourself.
+## How to use board & create issues
 - [ ] Check this video about board & issue: https://drive.google.com/file/d/1Ref8KYMnLZ_5QH5EOuBb0oLB_6DLDpRQ/view?usp=drivesdk
 - [ ] Please use #400_engineering_general channel on Slack
-- [ ] Please avoid communicating via Slack DM except for some specific cases such as negotiating rates, private matters or problems related to security issues.
+- [ ] Please avoid communicating via Slack DM except for some specific cases such as negotiating rates, private matters or problems related to the security issues.
 If you have any other questions, please mention the relevant person in charge or let us know in the appropriate channel.
-- [ ] Please check email every day to notice mention and assign on github
-  - you can use github app instead of email
+- [ ] Please check email every day to notice mentions and assignments on github
+  - you can use Github app instead of email
   - you can use dashboard instead of email
 - [ ] Did you move this issue to "In progress" column? 
 
-
-## To assistant role
+To assistant role
 - PR is pull request of source code. Engineers make PR to create or update our application. It's engineer's flow, so please mind just the word `PR`. ref: [What is pull request](https://www.google.com/search?q=what+is+pull+request)
 
-## Contents
+Contents
 - How to see our board.
 - Filter of board.
 - Top is higher priority and bottom is lower priority.
 - When you start doing issue, move to "In progress" column.
 - When you close the issue, not move to "Done", please click "Close Issue" .
 
-## Join
+Join
 - [ ] figjam: https://www.figma.com/figjam/
   - scheme verge's white board  :bow:
 
@@ -121,7 +120,49 @@ Contents:
   - or contact us on slack :+1: (creating an issue must be fastest way to get the reply though)
 
 ## For Flutter only
+- [ ] Check this video: https://drive.google.com/file/d/1S31fR7yDLjORr1fzWLxDJIYnCCsVfxXm/view?usp=drivesdk
+- [ ] Research about clean architecture
+
+Contents
+- horai_flutter_new
+- clean architecture
+- CI
+- horai/ui/admin
+
+Horai app
+- [ ] Setup horai_flutter_new development environment to local
+- [ ] Run app locally
+- [ ] Update README bow (maybe you'll face many trouble & error, please improve our document bow)
+
+### Admin console
+- [ ] Setup admin (in ui directory in horai repository) development environment to local
+- [ ] Run app locally
+- [ ] Update README bow (maybe you'll face many trouble & error, please improve our document bow)
+
 ## For Node Js only 
+
+- [ ] Reserch now about clean architecture (maybe you need 2 or 3 hours for thus issue)
+
+Contents
+- horai_os
+- horai
+- clean architecture
+- test
+- CI
+- coverage
+
+horai_os
+- [ ] Setup horai_os development environment to local
+- [ ] Run test and pass all on your local machine
+- [ ] Update README :bow: (maybe you'll face many trouble & error, please improve our document :bow:)
+
+horai repository
+- [ ] Setup coupon (it's in api directory in horai repository) development environment to local
+- [ ] Run test and pass all on your local machine
+- [ ] Check coverage
+- [ ] Update README :bow: (in case you find troubles& errors, please improve our document :bow:)
+
+
 
 You finished all welcome-tasks 🎉
 Thank you!
