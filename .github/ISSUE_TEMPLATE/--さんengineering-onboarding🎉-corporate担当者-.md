@@ -1,6 +1,6 @@
 ---
-name: "○○さんEngineering Onboarding Day1【Corporate担当者】"
-about: Describe this issue template's purpose here.
+name: "○○さんEngineering Onboarding\U0001F389【Corporate担当者】"
+about: Engineering Onboardingに向けてCorporate担当者のタスクのチェックリストです。
 title: ''
 labels: Onboarding実施
 assignees: ''
