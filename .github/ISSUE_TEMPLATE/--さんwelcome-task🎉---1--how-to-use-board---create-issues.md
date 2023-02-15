@@ -1,7 +1,7 @@
 ---
 name: "○○さんWelcome task\U0001F389 - 1. How to use board & create issues"
 about: A welcome task for onboarding the offshore engineers
-title: "○○さんWelcome task\U0001F389 - 1. How to use board & create issues"
+title: "○○さんEngineering Onboarding\U0001F389 Day1 【本人】"
 labels: Onboarding実施
 assignees: ''
 
@@ -33,3 +33,59 @@ If you have any other questions, please mention the relevant person in charge or
 - Top is higher priority and bottom is lower priority.
 - When you start doing issue, move to "In progress" column.
 - When you close the issue, not move to "Done", please click "Close Issue" .
+
+## Join
+- [ ] figjam: https://www.figma.com/figjam/
+  - scheme verge's white board  :bow:
+
+## Access check
+- [ ] [Can access GitHub projects](https://github.com/orgs/scheme-verge-inc/projects/4)
+- [ ] Can access Repositoryes
+  - [ ] [horai](https://github.com/scheme-verge-inc/horai)
+  - [ ] [horai_os](https://github.com/scheme-verge-inc/horai_os)
+  - [ ] [horai_flutter_new](https://github.com/scheme-verge-inc/horai_flutter_new)
+  - [ ] [horai_ops](https://github.com/scheme-verge-inc/horai_ops)
+  - [ ] [Setogei](https://github.com/scheme-verge-inc/setogei)
+- [ ] [Can access slack ](https://horai-dev.slack.com/archives/CMG7JJKFZ)
+- [ ] [Can access Google Drive 400.Eng ](https://drive.google.com/drive/folders/1bvNelIsAyKNs09briLMANjDJC0xUBjzc)
+- [ ] [Can access firebase console](https://console.firebase.google.com/project/horai-dev-scheme-verge-v2/overview)
+- [ ] [Can access google cloud platform](https://console.cloud.google.com/appengine/services?project=horai-dev-scheme-verge-v2)
+
+##Member List 
+- [ ] Please add your data to Member list
+  - [ ] name
+  - [ ] github
+  - [ ] slack
+  - [ ] email (We can use this email to invite meetings on google calendar)
+  - [ ] etc...
+- [ ] Please check email everyday because we'll send invitation to you for meeting on google calnedar
+- [ ] Please share your work shift for this week with the time in UTC.
+
+Member list: https://docs.google.com/spreadsheets/d/1bDlVq19sW8RrztIGl-YxOcqNtIQEdcn7/edit#gid=269665135
+- Leader
+  - CEO & Designer: Tatsuki Yamanami
+  - CFO: Kazuya Tanaka
+  - BizDev: Eitaro Suda
+  - Eng: Tatsuya Gotoda 
+
+##Repository Structure
+- horai_web
+- horai_flutter_new
+- horai_os
+- horai
+- DDD
+- TDD
+- Clean architecture
+- Micro service architecture
+
+##For Flutter only
+##For Node Js only 
+
+You finished all welcome-tasks 🎉
+Thank you!
+
+- [ ]  Give us some feedback about those welcome tasks please 🙇
+After comment to this issue, please change assignees to @ttygtdgs, 🙇
+Next step: please check your board, maybe we assigned new issues to you.
+
+Welcome to scheme verge!
