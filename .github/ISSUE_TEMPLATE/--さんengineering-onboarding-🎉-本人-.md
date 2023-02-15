@@ -23,27 +23,21 @@ If you have any other questions, please mention the relevant person in charge or
   - you can use dashboard instead of email
 - [ ] Did you move this issue to "In progress" column? 
 
+To assistant role
+- PR is pull request of source code. Engineers make PR to create or update our application. It's engineer's flow, so please mind just the word `PR`. ref: [What is pull request](https://www.google.com/search?q=what+is+pull+request)
 
-## Slack channels descriptions
+- [ ]Join
+- [ ] figjam: https://www.figma.com/figjam/
+  - scheme verge's white board  :bow:
+
+## Slack channels 
+
 #120_prd-emergency-incident
 #400_engineering_general ：channel used for general announcements to all members of the engineering  department. 
 #402_eng-absent-note：used to post absent information. Please post in advance.
 #403_eng_standup： a channel for daily task progress reports. When starting the work day the members of the Engineering team should post a message in this channel with the following content: 1) what I did yesterday  2)what I’m doing today 3)what problems/issues I’m encountering right now 
 #4dvpj_delivery-all-flow-of-saas-membership：used for communication with team 
 
-To assistant role
-- PR is pull request of source code. Engineers make PR to create or update our application. It's engineer's flow, so please mind just the word `PR`. ref: [What is pull request](https://www.google.com/search?q=what+is+pull+request)
-
-Contents
-- How to see our board.
-- Filter of board.
-- Top is higher priority and bottom is lower priority.
-- When you start doing issue, move to "In progress" column.
-- When you close the issue, not move to "Done", please click "Close Issue" .
-
-Join
-- [ ] figjam: https://www.figma.com/figjam/
-  - scheme verge's white board  :bow:
 
 ## Access check
 - [ ] [Can access GitHub projects](https://github.com/orgs/scheme-verge-inc/projects/4)
@@ -168,7 +162,7 @@ horai repository
 - [ ] Setup coupon (it's in api directory in horai repository) development environment to local
 - [ ] Run test and pass all on your local machine
 - [ ] Check coverage
-- [ ] Update README :bow: (in case you find troubles& errors, please improve our document :bow:)
+- [ ] Update README (in case you find troubles& errors, please improve our document )
 
 
 
