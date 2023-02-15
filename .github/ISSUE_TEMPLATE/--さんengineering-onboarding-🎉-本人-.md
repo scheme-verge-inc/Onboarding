@@ -1,5 +1,5 @@
 ---
-name: "○○さんEngineering Onboarding \U0001F389Day1【本人】"
+name: "○○さんEngineering Onboarding \U0001F389【本人】"
 about: A welcome task for onboarding the offshore engineers
 title: "○○さんEngineering Onboarding\U0001F389 Day1 【本人】"
 labels: Onboarding実施
