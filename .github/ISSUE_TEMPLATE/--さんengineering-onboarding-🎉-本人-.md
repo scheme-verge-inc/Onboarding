@@ -23,6 +23,14 @@ If you have any other questions, please mention the relevant person in charge or
   - you can use dashboard instead of email
 - [ ] Did you move this issue to "In progress" column? 
 
+
+## Slack channels descriptions
+#120_prd-emergency-incident
+#400_engineering_general ：channel used for general announcements to all members of the engineering  department. 
+#402_eng-absent-note：used to post absent information. Please post in advance.
+#403_eng_standup： a channel for daily task progress reports. When starting the work day the members of the Engineering team should post a message in this channel with the following content: 1) what I did yesterday  2)what I’m doing today 3)what problems/issues I’m encountering right now 
+#4dvpj_delivery-all-flow-of-saas-membership：used for communication with team 
+
 To assistant role
 - PR is pull request of source code. Engineers make PR to create or update our application. It's engineer's flow, so please mind just the word `PR`. ref: [What is pull request](https://www.google.com/search?q=what+is+pull+request)
 
