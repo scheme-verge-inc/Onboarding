@@ -40,7 +40,7 @@ If you have any other questions, please mention the relevant person in charge or
 
 ## Access check
 - [ ] [Can access GitHub projects](https://github.com/orgs/scheme-verge-inc/projects/4)
-- [ ] Can access Repositoryes
+- [ ] Can access Repositories
   - [ ] [horai](https://github.com/scheme-verge-inc/horai)
   - [ ] [horai_os](https://github.com/scheme-verge-inc/horai_os)
   - [ ] [horai_flutter_new](https://github.com/scheme-verge-inc/horai_flutter_new)
@@ -57,8 +57,7 @@ If you have any other questions, please mention the relevant person in charge or
   - [ ] github
   - [ ] slack
   - [ ] email (We can use this email to invite meetings on google calendar)
-  - [ ] etc...
-- [ ] Please check email everyday because we'll send invitation to you for meeting on google calnedar
+- [ ] Please check email everyday because we'll send invitation to you for meeting on google calendar
 - [ ] Please share your work shift for this week with the time in UTC.
 
 Member list: https://docs.google.com/spreadsheets/d/1bDlVq19sW8RrztIGl-YxOcqNtIQEdcn7/edit#gid=269665135
@@ -68,7 +67,7 @@ Member list: https://docs.google.com/spreadsheets/d/1bDlVq19sW8RrztIGl-YxOcqNtIQ
   - BizDev: Eitaro Suda
   - Eng: Tatsuya Gotoda 
 
-##Repository Structure
+## Repository Structure
 - horai_web
 - horai_flutter_new
 - horai_os
@@ -78,8 +77,51 @@ Member list: https://docs.google.com/spreadsheets/d/1bDlVq19sW8RrztIGl-YxOcqNtIQ
 - Clean architecture
 - Micro service architecture
 
-##For Flutter only
-##For Node Js only 
+## Workflow
+https://console.cloud.google.com/sql/instances/api-services/overview?project=horai-dev-scheme-verge-v2
+```
+username:postgres
+password: tsyzIhuBjJn6O7bb
+```
+
+Contents:
+- milestones (we use milestones only for issues with a deadline :scream:)
+- labels
+  - question
+  - only share
+  - ops
+  - team:*
+  - we-are:winner (with milestone)
+  - we-are:excellent-winner (with milestone)
+
+- Daily workflow
+  1. check "question" labeled issue(because someone needs your help)
+  1. check "only share" labeled issue(because it's new information)
+  1. check PR review(it's very important, so please review before you start your task)
+  1. start resolving issue
+
+- Workflow about issue
+  1. Filter issues on board
+  1. Move top issue to "In progress" from "To do" (to record the timestamp because we can know you start working)
+  1. Commit changes with "Smart commit" commit message ex) `git commit -m'feat(api/coupon): add SampleUsecase / close #111' # close #issue_number is smart commit`
+    - https://docs.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#closing-multiple-issues
+  3. Create draft PR and assign yourself after first commit
+  4. Move issue to "Waiting column" and put "Will close automatically by PR" label (because PR card and issue card both is in "In progress" column, it's noisy a little bit.)
+  5. After resolve issue and pass CI check, please remove "Draft" mark from PR using "Ready for review" button. (to record you finish the task because we can know you finish working the task)
+  6. Assign PR to reviewer (not only "reviewer" because we'll filter by assignee.)
+  7. Move PR to "To do" (because the PR isn't "In progress"(means in reviewing) for reviewer just now);
+
+
+- When you have question or problem
+  1. Please comment to the issue
+  1. Put "question" label
+  1. change asignee
+- When you have information to share, notice any problem or you face any troubles in the system 
+  - please create an issue, (add "only share" label if you just want to share the info)
+  - or contact us on slack :+1: (creating an issue must be fastest way to get the reply though)
+
+## For Flutter only
+## For Node Js only 
 
 You finished all welcome-tasks 🎉
 Thank you!
