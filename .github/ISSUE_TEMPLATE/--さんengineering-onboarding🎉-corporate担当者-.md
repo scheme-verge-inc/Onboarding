@@ -12,7 +12,13 @@ assignees: ''
 - [ ] G-suite の collaborator グループに追加
 - [ ] GitHub 招待
 - [ ]○○さんEngineering Onboarding 🎉Day1【本人】に本人の名前をタスクのタイトルに入れて、本人にタスクをアサインする
-- [ ] Slack #120_prd-emergency-incidentと#400_engineering_general にマルチチャンネルゲストで招待
+- [ ] Slack にマルチチャンネルゲストで招待
+#120_prd-emergency-incident
+#400_engineering_general ：channel used for general announcements to all members of the engineering  department. 
+#402_eng-absent-note：used to post absent information. Please post in advance.
+#403_eng_standup： a channel for daily task progress reports. When starting the work day the members of the Engineering team should post a message in this channel with the following content: 1) what I did yesterday  2)what I’m doing today 3)what problems/issues I’m encountering right now 
+#4dvpj_delivery-all-flow-of-saas-membership：used for communication with team 
+
 - [ ] GitHub の teams の [All に追加](https://github.com/orgs/scheme-verge-inc/teams/all)
 - [ ] レポジトリーについて説明できるエンジニアを事前にOnboardingのURLに招待する（実際のOnboardingの際Welcome Task#5を本人に説明してもらう）
 - [ ] [firebase console 招待](https://console.firebase.google.com/project/horai-dev-scheme-verge-v2/overview)
