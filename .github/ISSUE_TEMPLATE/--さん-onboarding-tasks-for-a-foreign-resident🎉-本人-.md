@@ -8,7 +8,7 @@ assignees: ''
 
 ---
 
-- [ ] Please check out how to issue the monthly invoice
+- [ ] Please check out [ how to issue the monthly invoice](https://docs.google.com/document/d/1BlfpQIYu29BJbKl7zNdPAiPZKomj8kdR0rwjsecxTr8/edit)
 - [ ] Confirm whether you have received your template invoice from @SHIINAYAMASHITA
 
 If you have completed all the tasks in the checklist above, press ** "Close issue" **
