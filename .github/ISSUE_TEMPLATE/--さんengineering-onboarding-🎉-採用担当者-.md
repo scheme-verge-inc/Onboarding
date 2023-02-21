@@ -1,8 +1,8 @@
 ---
 name: "○○さんEngineering Onboarding \U0001F389【採用担当者】"
 about: Describe this issue template's purpose here.
-title: ''
-labels: ''
+title: "○○さんEngineering Onboarding \U0001F389【採用担当者】"
+labels: Onboarding実施
 assignees: ''
 
 ---
