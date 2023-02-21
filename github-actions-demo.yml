@@ -1,7 +1,9 @@
 name: Add issues to project
+
 on:
   issues:
     types: [opened]
+
 jobs:
   add-to-project:
     name: Add issue to project
@@ -9,5 +11,5 @@ jobs:
     steps:
       - uses: actions/add-to-project@v0.4.0
         with:
-          project-url:https://github.com/orgs/scheme-verge-inc/projects/15
+          project-url: https://github.com/users/<user id>/projects/<project id>
           github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
