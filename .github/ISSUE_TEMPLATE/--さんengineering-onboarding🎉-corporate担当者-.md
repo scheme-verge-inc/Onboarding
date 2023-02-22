@@ -1,7 +1,7 @@
 ---
 name: "○○さんEngineering Onboarding\U0001F389【Corporate担当者】"
 about: Engineering Onboardingに向けてCorporate担当者のタスクのチェックリストです。
-title: ''
+title: "○○さんEngineering Onboarding\U0001F389【Corporate担当者】"
 labels: Onboarding実施
 assignees: ''
 
