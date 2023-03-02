@@ -68,7 +68,7 @@ Member list: https://docs.google.com/spreadsheets/d/1bDlVq19sW8RrztIGl-YxOcqNtIQ
   - BizDev: Eitaro Suda
   - Eng: Tatsuya Gotoda 
 
-## Repository Structure
+## Repository Structure (to be explained by Sameer)
 - horai_web
 - horai_flutter_new
 - horai_os
